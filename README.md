@@ -17,7 +17,7 @@ Annotations précises des régions de texte dans chaque image.
 ## Modèle
 Le modèle est implémenté en utilisant le framework TensorFlow/Keras. Il s'agit d'un modèle de réseau de neurones convolutif (CNN) qui prend une image en entrée et produit des coordonnées de boîtes englobantes (bounding boxes) autour des régions de texte détectées.
 
-Le modèle est basé sur l'architecture YOLO (You Only Look Once) qui est connue pour sa rapidité et son efficacité dans la détection d'objets.
+Le modèle s'est inspiré sur l'architecture YOLO (You Only Look Once) qui est connue pour sa rapidité et son efficacité dans la détection d'objets.
 
 
 ## Utilisation
